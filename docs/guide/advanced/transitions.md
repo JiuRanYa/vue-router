@@ -10,7 +10,7 @@ Since the `<router-view>` is essentially a dynamic component, we can apply trans
 </transition>
 ```
 
-[All transition APIs](https://vuejs.org/guide/transitions.html) work the same here.
+[All transition APIs](https://v2.vuejs.org/v2/guide/transitions.html) work the same here.
 
 ## Per-Route Transition
 
